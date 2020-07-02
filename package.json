@@ -129,6 +129,6 @@
     "url": "https://opencollective.com/final-form"
   },
   "dependencies": {
-    "@babel/runtime": "^7.10.0",
+    "@babel/runtime": "^7.10.0"
   }
 }
