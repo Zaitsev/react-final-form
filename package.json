@@ -130,6 +130,5 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.10.0",
-    "@scarf/scarf": "^1.0.5"
   }
 }
